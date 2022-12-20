@@ -1,2 +1,2 @@
 # ml-project-1
-MINJOO in the house
+## 2022.12.20. github setting
