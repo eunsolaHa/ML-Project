@@ -14,6 +14,7 @@
 ![사파고 머신러닝 프로젝트 PPT pptx (8)](https://github.com/user-attachments/assets/2ca0d67a-829f-4f68-aa19-9812854f6d88)
 ![사파고 머신러닝 프로젝트 PPT pptx (9)](https://github.com/user-attachments/assets/964ed509-33ba-4c49-93c5-747d97db241d)
 ![사파고 머신러닝 프로젝트 PPT pptx (10)](https://github.com/user-attachments/assets/d322605e-5e8c-48fd-ae53-1c68fa293911)
+![image](https://github.com/user-attachments/assets/d7f9255f-5451-4802-81de-c3a920add9e7)
 
 
 [PPT.pptx.pdf](https://github.com/user-attachments/files/20679726/PPT.pptx.pdf)
