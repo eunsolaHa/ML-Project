@@ -1,20 +1,15 @@
 # ml-project-1
 
-## 2022.12.20. github setting
-
-
-![사파고 머신러닝 프로젝트 PPT pptx](https://github.com/user-attachments/assets/fd9a2656-f055-4909-ae05-b2213629cd95)
-![사파고 머신러닝 프로젝트 PPT pptx (1)](https://github.com/user-attachments/assets/09ebdaa7-74eb-41c3-99e2-65bd199bc0f5)
-![사파고 머신러닝 프로젝트 PPT pptx (2)](https://github.com/user-attachments/assets/0fe67a90-12b6-4888-b39f-bc45bff8221a)
-![사파고 머신러닝 프로젝트 PPT pptx (3)](https://github.com/user-attachments/assets/5941f5b0-2d0d-4564-824b-af136b1b24c6)
-![사파고 머신러닝 프로젝트 PPT pptx (4)](https://github.com/user-attachments/assets/2c35cba5-88be-46dc-8cae-8e548619c53f)
-![사파고 머신러닝 프로젝트 PPT pptx (5)](https://github.com/user-attachments/assets/f337c60e-0b7d-48d8-99ed-8234c0f887ae)
-![사파고 머신러닝 프로젝트 PPT pptx (6)](https://github.com/user-attachments/assets/abe0d8d3-dd4c-43aa-ae44-cbda204bcc89)
-![사파고 머신러닝 프로젝트 PPT pptx (7)](https://github.com/user-attachments/assets/de5f676d-ea6c-460a-afd3-9f6470296004)
-![사파고 머신러닝 프로젝트 PPT pptx (8)](https://github.com/user-attachments/assets/2ca0d67a-829f-4f68-aa19-9812854f6d88)
-![사파고 머신러닝 프로젝트 PPT pptx (9)](https://github.com/user-attachments/assets/964ed509-33ba-4c49-93c5-747d97db241d)
-![사파고 머신러닝 프로젝트 PPT pptx (10)](https://github.com/user-attachments/assets/d322605e-5e8c-48fd-ae53-1c68fa293911)
 ![image](https://github.com/user-attachments/assets/d7f9255f-5451-4802-81de-c3a920add9e7)
+![image](https://github.com/user-attachments/assets/0fe82ef5-8840-4e9c-a20f-b01abcb75a8c)
+![image](https://github.com/user-attachments/assets/6fac1fce-77d4-4334-9ae7-545b11367023)
+![image](https://github.com/user-attachments/assets/29ec746d-8992-4d8e-a669-9dbab5734ab1)
+![image](https://github.com/user-attachments/assets/06bbba36-95ae-49b1-bfc4-7faef994e835)
+![image](https://github.com/user-attachments/assets/acb53b3a-5aae-40a9-8ab5-83d8e9a62ff3)
+![image](https://github.com/user-attachments/assets/b639bb96-d635-4471-835f-3157a1e5199f)
+![image](https://github.com/user-attachments/assets/90cabf0d-1345-4697-a7a1-946067aa45dc)
+![image](https://github.com/user-attachments/assets/345729dc-9eaf-440b-8884-df1e6a201ea8)
+![image](https://github.com/user-attachments/assets/d112d502-2ffb-46a6-8f00-a61201a2282f)
+![image](https://github.com/user-attachments/assets/954e0b71-95c0-4318-9cc4-ea3daaa14024)
+![image](https://github.com/user-attachments/assets/f9dfff0a-5e4d-43e9-af6c-b56f61d8c88a)
 
-
-[PPT.pptx.pdf](https://github.com/user-attachments/files/20679726/PPT.pptx.pdf)
